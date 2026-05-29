@@ -5,7 +5,7 @@ Este é o meu espaço no **GitHub Pages**, criado a partir do repositório `Jame
 
 
 ## Projetos
-- [Projeto IBAMA]([https://github.com/jamessonGIT/projeto1](https://github.com/jamessonGIT/Ibama))
+- [Infrações IBAMA]([https://github.com/jamessonGIT/projeto1](https://github.com/jamessonGIT/Ibama))
 
 
 Contatos:  
@@ -15,8 +15,7 @@ www.linkedin.com/in/jamesson-gomes <br><br>
 jamesson.usaf@gmail.com
 
 ## Sobre mim
-- Nome: Jamesson Amaral Gomes
-- Interesses: Ciência de Dados, Políticas Públicas, Cultura e Tecnologia
+- Interesses: Ciência de Dados, Políticas Públicas, Meio Ambiente e Tecnologia
 <div align="justify">
 
 Com mais de 10 anos de experiência em projetos de diferentes segmentos de atuação (Mineração, Educação, Saúde, Meio Ambiente, etc.). Trabalho atualmente em pesquisas interdisciplinares direcionadas a integração e  a extração de conhecimento de conjuntos de dados nas áreas de Mudança do Clima, Recuperação Ambiental e Sustentabilidade com utilização de Geotecnologias (QGIS, ArcGIS, Google Earth Egine, . Atuo também na operacionalização de processos em sistemas de diferentes plataformas e com a criação de aplicações focadas em Data Analytics e Business Intelligence. Desenvolvo atividades ETL e Data Visualization, com diversas ferramentas como: Microsoft Fabric, Power BI, Azure Data Factory, Databricks e demais soluções em nuvem da Microsoft e GCP. Possuo sólida experiência no uso de SQL, Python, R, DAX aplicados ao uso de diversos bancos de dados públicos e privados.  
